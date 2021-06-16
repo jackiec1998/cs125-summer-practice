@@ -28,6 +28,8 @@ The lesson on [Variable and Types](https://cs125.cs.illinois.edu/lessons/Summer2
   * `char` stores characters as the name hints. You can use it to store the letter grade you get out of this course!
 </details>
 
+---
+
 Reminder that variable declarations have three parts: (1) the data type, (2) the variable name, and (3) the assignment which is optional. Below is not valid code, it's just there to demonstrate the components described above.
 
 ```
@@ -57,6 +59,8 @@ System.out.println(temperature); // does it print 0.0? does it even run?
   6. The code does not run because the variable has not been declared.
 </details>
 
+---
+
 7. What does this piece of code do? Why?
 
 ```java
@@ -71,6 +75,8 @@ System.out.println(foo);
 
   7. It prints out `6`, the character not the number. That's because `54` on the [ASCII table](http://www.asciitable.com/) is the character `6`.
 </details>
+
+---
 
 8. Declare a variable called `firstLetter` with the first *letter* of your name.
 9. Declare a variable `hadGoodSleep` that is `true` if you had good sleep, and `false` otherwise.
@@ -87,6 +93,8 @@ Hint: You'll need to use `int`, `double`, `boolean`, and `char` only once in som
   10. `double minimumGPA = 3.5;`
   11. `int mealsPerDay = 3;`
 </details>
+
+---
 
 ## Operations on Variables
 
@@ -140,6 +148,8 @@ System.out.println(picturesOfCats);
   5.  Does not run because `picturesOfCats` gets declared twice.
 </details>
 
+---
+
 Let's track the number of people on the Zoom call.
 
 6. Declare a variable `peopleInZoom` that is equal to the number of people in this Zoom call.
@@ -157,6 +167,8 @@ Let's track the number of people on the Zoom call.
   ```
 </details>
 
+---
+
 Practice with some negation.
 
 9. Declare a boolean called `drankWater` if you have drank water today.
@@ -171,6 +183,8 @@ Practice with some negation.
   System.out.println(drankWater);
   ```
 </details>
+
+---
 
 ## Conditional Expressions and Statements
 
@@ -200,6 +214,8 @@ Reminder, these are some of the operations you should be familiar with: `&&`, `|
 
   A conditional statement, on the other hand, *uses* a conditional expression and based on the value of that conditional expression will execute another piece of code. These are otherwise known as if-statements. In the hint, it says: "If you're `readyForDate`, then call your date."
 </details>
+
+---
 
 2. Consider the code below and answer the questions proposed.
 
@@ -234,6 +250,7 @@ if (mealCost > 10.0) {
   For the third question, the print statement will execute because the meal is expensive, i.e. `mealIsExpensive` is `true`.
 </details>
 
+---
 
 3. Declare a variable `myAge` that contains your age.
 4. Declare a variable called `canBuyAlcohol` that is true when `myAge` is greater or equal to `21` and false otherwise.
@@ -265,6 +282,8 @@ if (<expression>) {
   ```
 </details>
 
+---
+
 7. I was writing code late on night, as usual, and wrote this. There's an error here, where is it?
 
 ```java
@@ -284,6 +303,8 @@ if (twitterFollowers > 1000) {
 
   The error is from `twitterFollowers = 0` because the `=` operator, known as the *assignment* operator, is different than the `==` operator, known as the equality operator. I should've used the `==` to check if both values on the left and right side are equal to each other.
 </details>
+
+---
 
 ## Blocks and Scope
 
