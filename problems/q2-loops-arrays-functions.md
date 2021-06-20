@@ -139,6 +139,8 @@ System.out.println("You have $" + savings + " in savings.");
   ```
 </details>
 
+---
+
 ## Arrays
 Arrays allow you to store sequential data. Here's how they look syntactically.
 
@@ -268,6 +270,8 @@ System.out.println("Your total is: " + calculateTotal(prices));
   }
   ```
 </details>
+
+---
 
 3. Fill out the following function template. It will only return true if all the parameters are true.
 
