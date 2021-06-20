@@ -1,6 +1,10 @@
 # Quiz 2: Loops, Arrays, Functions
 
 Practice problems here will try and assess your ability to:
+* Use both `for` and `while` loops, i.e. know how to declare and manipulate `for` and `while` loops.
+* Extend our knowledge of data types and declare arrays that store the respective data types that we've learned: `int`, `double`, `char`, `boolean`.
+* Know how to declare and call functions by understanding a function's components: return value, parameters, etc.
+* Understand why functions are helpful in your code.
 
 A good place to run some of the code is on the [home page](https://cs125.cs.illinois.edu/). Some of these questions are copied from CS 199: Even More Practice (EMP) from Spring '21, source is [here](https://cs199emp.netlify.app/).
 
