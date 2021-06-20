@@ -145,7 +145,7 @@ System.out.println(picturesOfCats);
   2. Prints `5`.
   3. Does not run because `int` cannot store floating point numbers.
   4.  Prints `false` because `!` means *not* and `itIsHotOutside` gets reassigned to *not* `itIsHotOutside`.
-  5.  Does not run because `picturesOfCats` gets declared twice.
+  5.  Doesn't run because `picturesOfCats` gets declared twice.
 </details>
 
 ---
