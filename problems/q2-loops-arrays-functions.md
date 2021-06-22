@@ -32,7 +32,7 @@ for (int age = 0; age < 15; age++) {
 
 ---
 
-2. Creat a `for` loop that prints out consecutively the integergs from 50 to 0 backwards, i.e. the first iteration should print 50, the last should print 0.
+2. Create a `for` loop that prints out consecutively the integergs from 50 to 0 backwards, i.e. the first iteration should print 50, the last should print 0.
 
 3. Write a `for` loop that begins at your current age and decrements by 2 at every iteration until 0. Within the loop, write a conditional statement to check if the counter for the loop is below to 2. If so, print out "Hurray!"
 
