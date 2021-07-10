@@ -329,6 +329,8 @@ System.out.println(d.equals(g));
   ```
 </details>
 
+----------
+
 ## Polymorphism
 
 Another fancy word like encapsulation. *Polymorhpism* is the idea that objects can morph into multiple (hence the *poly-*) different objects.
