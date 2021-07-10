@@ -515,7 +515,7 @@ public class Hamster extends Pet { }
 
 ----------
 
-Use the `Movie` class to accomplish the following.
+4. Use the `Movie` class to accomplish the following.
 
 * What's anothe class that could descend from `Movie`? What's a unique attribute/method it would have?
 
