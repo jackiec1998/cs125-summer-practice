@@ -649,6 +649,8 @@ for (int i = 0; i < armySize; i++) {
   ```
 </details>
 
+----------
+
 2. Implement deep copy with the following `Playlist` class.
 
 ```java
