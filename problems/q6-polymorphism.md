@@ -1,6 +1,9 @@
 # Quiz 6: Polymorphism
 
 Pratice problems here will try and assess your ability to:
+* Write functions that can take an Object as well as their child classes.
+* Understand the "Is A" relationships between classes and their ancestors.
+* Be comfortable with overwriting functions that were inherited from parents.
 
 A good place to run some of the code is on the [home page](https://cs125.cs.illinois.edu/). Some of these questions are copied from CS 199: Even More Practice (EMP) from Spring '21, source is [here](https://cs199emp.netlify.app/).
 
