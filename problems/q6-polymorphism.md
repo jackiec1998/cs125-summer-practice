@@ -79,7 +79,7 @@ You received a ${amount} check.
 What are you going to spend it on?
 ```
 
-* If it's a `Prize` object only, then print tghe following.
+* If it's a `Prize` object only, then print the following.
 
 ```
 You received a {name}.
