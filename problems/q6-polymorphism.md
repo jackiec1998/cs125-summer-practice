@@ -104,6 +104,7 @@ public class Car extends Prize {
   
   public Car(String setModel) {
     super("Car");
+    this.model = setModel;
   }
 }
 
@@ -162,6 +163,7 @@ public class Check extends Prize {
     
     public Car(String setModel) {
       super("Car");
+      this.model = setModel;
     }
     
     public String getModel() {
