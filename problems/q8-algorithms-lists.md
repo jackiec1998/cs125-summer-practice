@@ -1,4 +1,4 @@
-# Quiz 7: Algorithm Analysis and Lists (and Their Implementations)
+# Quiz 8: Algorithm Analysis and Lists (and Their Implementations)
 
 Practice problems here will assess your ability to:
 * Understand what the requirements are for a `List`.
