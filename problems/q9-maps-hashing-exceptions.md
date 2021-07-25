@@ -144,9 +144,9 @@ What do you expect a map to do?
 
 6. Make a public class called `BanList` that contains a map of `String` keys and `Boolean`, note the capitalization, as values. Initialize the map as a `HashMap` in the constructor and write these functions below.
 
-* A function called `analyzePost()` that takes a `String` for the user and `String for their `post`. The function will check if the `post` contains the word `"cheat"`. If the post does, then add them to the ban list map with the value `true`.
+* A function called `analyzePost()` that takes a `String` for the user and `String` for their `post`. The function will check if the `post` contains the word `"cheat"`. If the post does, then add them to the ban list map with the value `true`.
 
-* A function called `getUser()` thgat takes a `String` for the user and looks up whether they're banned by returning a `boolean`.
+* A function called `getUser()` that takes a `String` for the user and looks up whether they're banned by returning a `boolean`.
 
 Here's some test code.
 
