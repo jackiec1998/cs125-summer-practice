@@ -1,6 +1,10 @@
 # Quiz 9: Maps, Hashing, Exceptions
 
 Practice problems here will assess your ability to:
+* Understand the purpose of hash functions and what makes a good hash function.
+* Be able to take an arbitrary object and hash it into a fixed value.
+* Identify the different types of exceptions and the structure of how we handle exceptions.
+* How to extend the `Exception` class and specify your own custom exceptions. 
 
 A good place to run some of the code is on the [home page](https://cs125.cs.illinois.edu/). Some of these questions are copied from CS 199: Even More Practice (EMP) from Spring '21, source is [here](https://cs199emp.netlify.app/).
 
