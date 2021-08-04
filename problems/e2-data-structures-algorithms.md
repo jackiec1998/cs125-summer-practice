@@ -49,7 +49,7 @@ public class TreeNode {
 }
 
 public class BinaryTreeOperations {
-  public static int rangeSumBST(TreeNode root, int low, int high) {
+  public static int rangeSum(TreeNode root, int low, int high) {
     // write your code here 
   }
 }
