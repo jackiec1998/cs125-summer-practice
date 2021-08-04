@@ -284,6 +284,7 @@ We've learned about a variety of sorting algorithms, here's a list of them:
 * Insertion Sort
 * Merge Sort
 * Quick Sort
+* Binary Search (not a sorting algorithm, but a search algorithm)
 
 For these sorting algorithms, you should be able to deduce their big-O runtimes, best/worse cases (or even if they have best/worse cases), and major components required to implement them (e.g. quick sort requires partition, merge sort requires a merge function that merges two already sorted arrays).
 
